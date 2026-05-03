@@ -240,9 +240,9 @@ def main():
         st.header("⚙️ Settings")
 
         # Social links
-        linkedin = "https://www.linkedin.com/in/snsupratim/"
-        kaggle   = "https://www.kaggle.com/snsupratim/"
-        github   = "https://github.com/snsupratim/"
+        linkedin = "put url here"
+        kaggle   = "put url here"
+        github   = "put url here"
         st.markdown(
             f"[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]({linkedin}) "
             f"[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]({kaggle}) "
