@@ -1,0 +1,13 @@
+# Virtual environment
+rag-env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# FAISS index (generated)
+faiss_index/
+
+# OS files
+.DS_Store
